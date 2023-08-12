@@ -49,13 +49,9 @@ BlogSynth-AI-summarizer is a web application that utilizes artificial intelligen
 
 - Open the application in your browser.
 - Enter the URL of the article you want to summarize.
-- Click the "Generate Summary" button.
+- Click the button.
 - The AI-powered API will fetch the article's content and provide a summary.
 
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or want to add new features, feel free to create a pull request.
-
-## License
-
-This project is licensed under the MIT License.
