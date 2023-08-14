@@ -15,7 +15,7 @@ BlogSynth-AI-summarizer is a web application that utilizes artificial intelligen
 - ReactJS: A popular JavaScript library for building user interfaces.
 - Redux Toolkit: A set of tools for efficient Redux state management.
 - Vite: A fast build tool and development server.
-- Tailwind CSS: A utility-first CSS framework for building responsive designs.
+- Tailwind CSS: A utility-first CSS framework for building responsive design.
 
 ## Getting Started
 
