@@ -2,6 +2,8 @@
 
 BlogSynth-AI-summarizer is a web application that utilizes artificial intelligence to generate summaries for articles based on a given URL. The project is built using ReactJS, Redux Toolkit, Vite, and Tailwind CSS for styling. This README provides an overview of the project's structure, features, setup instructions, and usage.
 
+![BlogSynth](https://github.com/Nitish-Kumar05/BlogSynth-AI-summarizer/assets/141276983/26da77ed-d717-40fe-9fb6-e596279dad47)
+
 ## Features
 
 - **URL Summarization:** Enter a URL of an article, and the AI-powered API will fetch the content and generate a summary of the article.
