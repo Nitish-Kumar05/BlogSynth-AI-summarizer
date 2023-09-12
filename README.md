@@ -54,6 +54,3 @@ BlogSynth-AI-summarizer is a web application that utilizes artificial intelligen
 - Click the button.
 - The AI-powered API will fetch the article's content and provide a summary.
 
-## Contributing
-
-Contributions to this project are welcome! If you find any issues or want to add new features, feel free to create a pull request.
